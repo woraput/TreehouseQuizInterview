@@ -1,2 +1,9 @@
 # TreehouseQuizInterview
-Quiz inverview 
+
+Quiz inverview
+
+Run command
+
+```
+npm start
+```
